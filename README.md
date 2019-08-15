@@ -5,11 +5,11 @@
 | 08/27/19 | 10:00 | 11:15 | 1:15 | first day of class, syllabus |
 | 08/29/19 | 10:00 |       |      |                              |
 
-Continue this for every time you work on class.
+**Continue this for every time you work on class.**
 
-#Delete this comment at the end of the semester.#
+**Delete this comment by the end of the semester.**
 
-Military Time
+**Military Time**
 
 1pm - 13:00
 
