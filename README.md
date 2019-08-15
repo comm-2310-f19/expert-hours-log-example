@@ -6,8 +6,11 @@
 | 08/29/19 | 10:00 |       |      |                              |
 
 Continue this for every time you work on class.
+
 Delete this comment at the end of the semester.
+
 Military Time
+
 1pm - 13:00
 
 2pm - 14:00
@@ -21,3 +24,15 @@ Military Time
 6pm - 18:00
 
 7pm - 19:00
+
+8pm - 20:00
+
+9pm - 21:00
+
+10pm - 22:00
+
+11pm - 23:00
+
+Midnight - 00:00
+
+Hours 1am through Noon will be the normal number. (e.g. 01:00 = 1am)
