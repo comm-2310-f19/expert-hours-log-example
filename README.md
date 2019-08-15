@@ -36,3 +36,9 @@
 Midnight - 00:00
 
 Hours 1am through Noon will be the normal number. (e.g. 01:00 = 1am)
+
+Production time on set should be logged as follows.
+
+| Date | Start Time | End Time | Total Time | Short Description of Activities |
+|------|------------|----------|------------|---------------------------------|
+| **08/27/19 | 10:00 | 11:15 | 1:15 | Shooting Short Film on Set** |
