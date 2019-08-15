@@ -42,3 +42,9 @@ Production time on set should be logged as follows.
 | Date | Start Time | End Time | Total Time | Short Description of Activities |
 |------|------------|----------|------------|---------------------------------|
 | *08/27/19* | *10:00* | *11:15* | *1:15* | *Shooting Short Film on Set* |
+
+If you forget to log hours, you may use the following to markup to notify that the hours were backlogged.  
+
+| Date | Start Time | End Time | Total Time | Short Description of Activities |
+|------|------------|----------|------------|---------------------------------|
+| **08/27/19** | **10:00** | **11:15** | **1:15** | **Shooting Short Film on Set** |
