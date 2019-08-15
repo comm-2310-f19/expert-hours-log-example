@@ -7,7 +7,7 @@
 
 Continue this for every time you work on class.
 
-~Delete this comment at the end of the semester.~
+#Delete this comment at the end of the semester.#
 
 Military Time
 
