@@ -5,7 +5,7 @@
 | 08/27/19 | 10:00 | 11:15 | 1:15 | first day of class, syllabus |
 | 08/29/19 | 10:00 |       |      |                              |
 
-**Continue this for every time you work on class.**
+**Continue this for every time you work on class, both inside and outside of class.  You will want to log in at the start of class work to commit/push and log out at the end of class work and commit/push**
 
 **Delete this comment by the end of the semester.**
 
